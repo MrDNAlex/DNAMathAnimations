@@ -31,10 +31,7 @@ namespace DNAMathAnimation
            
         }
 
-        //Alright Well I can't tell what is happening 
-
-        //Maybe pass initial position inside and keep calling it and stack the additions?
-
+      
         //
         //Relocation
         //
